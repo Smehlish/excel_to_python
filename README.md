@@ -4,7 +4,7 @@
 
 salut Smehlish
 
-fonction python qui prend en entre le nom du fichier excel en local
+fonction python qui prend en entrée le nom du fichier excel en local et la puissance crête
 
 en sortie pdf
 
